@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Compose
 - 📫 How to reach me vedantkverma@outlook.com
 - ⚡ Fun fact: Ben 10 franchise worth is higher than Twilight, Game of Thrones and Sonic.
+- ❤️ I love Ryan Gosling
 <!---
 Vedantgosling/Vedantgosling is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
