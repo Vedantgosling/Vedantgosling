@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vedant Kumar Verma
-- 👀 I’m interested in Native Android development
-- 🌱 I’m currently learning Compose
+- 👀 I’m interested in Native Android development with Compose Framework.
+- 🌱 I know all the basics of Android Dev such as MVVM, DI, Flow and Coroutines
 - 📫 How to reach me vedantkverma@outlook.com
 - ⚡ Fun fact: Ben 10 franchise valuation is higher than Twilight, Game of Thrones and Sonic.
 - ❤️ I love Ryan Gosling
