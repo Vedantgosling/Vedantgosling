@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vedant Kumar Verma
 - 👀 I’m love Android development with Compose Framework.
 - 🌱 know MVVM, DI, Flow and Coroutines.
-- 🌐 Specialize in API handling
+- 🌐 Also love development in Kotlin 
 - 🔋 Always learning, always coding. Fueled by curiosity and Energy Drink.
 - 📫 How to reach me vedantkverma@outlook.com
 - ⚡ Fun fact: Ben 10 franchise valuation is higher than Twilight, Game of Thrones and Sonic.
