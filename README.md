@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vedant Kumar Verma
 - 👀 I’m love Android development with Compose Framework.
-- 🌱 know MVVM, DI, Flow and Coroutines.
+- 🌱 know MVVM, DI, Flow, retrofit,ktor and Coroutines.
 - 🌐 Also love development in Kotlin 
 - 🔋 Always learning, always coding. Fueled by curiosity and Energy Drink.
 - 📫 How to reach me 007vedantkumar@gmail.com
