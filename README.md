@@ -3,7 +3,7 @@
 - 🌱 know MVVM, DI, Flow and Coroutines.
 - 🌐 Also love development in Kotlin 
 - 🔋 Always learning, always coding. Fueled by curiosity and Energy Drink.
-- 📫 How to reach me vedantkverma@outlook.com
+- 📫 How to reach me 007vedantkumar@gmail.com
 - ⚡ Fun fact: Ben 10 franchise valuation is higher than Twilight, Game of Thrones and Sonic.
 - 🚘 I love Ryan Gosling
 <!---
