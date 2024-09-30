@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vedant Kumar Verma
-- 👀 I’m love Android development with Compose Framework.
-- 🌱 know MVVM, DI, Flow, retrofit,ktor and Coroutines.
+- 👀 I’m love Android development in Kotlin with Compose Framework.
+- 🌱 know MVVM, DI, Flow, retrofit and Coroutines.
 - 🔋 Always learning, always coding. Fueled by curiosity and Energy Drink.
 - 🌐 Also love Backend web development in Kotlin(Sometimes)
 - 🌿 Spring Boot
